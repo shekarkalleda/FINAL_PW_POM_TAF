@@ -23,7 +23,7 @@ export class BasePage {
         this.footerLinks = page.locator('footer a');
     }
 
-    //App common features/actions: footer, logo, search
+    //App common features/actions: footer, logo, search and other items
 
     async isLogoVisible(): Promise<boolean> {
         return await this.logo.isVisible();

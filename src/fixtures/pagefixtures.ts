@@ -14,6 +14,7 @@ type pageFixtures = {
     // searchResultsPage: SearchResultsPage,
     // productInfoPage: ProductInfoPage,
     //testData: Record<string, string>[];
+    
 };
 
 //extend the playright test: using baseTest.extend: inheritance
