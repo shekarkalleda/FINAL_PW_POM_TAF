@@ -28,6 +28,6 @@
         "node_modules",
         "dist",
         "reports",
-        "allure-results"
+        "allure-results" 
     ]
 }

@@ -13,3 +13,10 @@ node_modules/
 
 # files
 reporting-labs.history.json
+
+# IDE
+.vscode
+
+# build
+dist/
+

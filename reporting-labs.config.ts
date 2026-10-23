@@ -42,7 +42,7 @@ const config: ReportingLabsOptions = {
   // pdf: true,                                       // also write a print-ready report.pdf (false to skip, { file } to rename, { chromePath } to name the browser)
 
   // ── Test details ─────────────────────────────────────────────────────────────
-  // Values come from meta({ priority, severity, owner, feature, epic, story, ... }) in your tests.
+  // Values come from meta({ priority, severity, owner, feature, epic, story, ... }) in your tests..
   //
   // dimensions: which meta keys get their own tab in the Breakdown chart and a dropdown filter on the
   // Tests page. Default: priority, severity, feature, owner. Add your own key when you want a chart

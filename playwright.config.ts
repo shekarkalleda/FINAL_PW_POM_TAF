@@ -17,6 +17,7 @@ export default defineConfig({
   timeout: 30000,
   expect: { timeout: 15000 },
 
+  
   reporter: [
   ['list'], 
   ['html', { outputFolder: "reports/html-report", open: "never" }],
